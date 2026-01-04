@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+out/
+*.js.map
+
+# Testing
+.vscode-test/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Database files (may contain sensitive data)
+*.db
+notes.db
+
+# Environment files
+.env
+.env.local
+
+# Extension packaging
+*.vsix
+
+# TypeScript cache
+*.tsbuildinfo
+
