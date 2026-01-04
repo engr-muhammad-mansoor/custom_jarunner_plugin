@@ -26,8 +26,8 @@ A lightweight Visual Studio Code extension that allows you to quickly run JAR fi
 ### Manual Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/jarunner.git
-   cd jarunner
+   git clone https://github.com/engr-muhammad-mansoor/custom_jarunner_plugin.git
+   cd custom_jarunner_plugin
    ```
 
 2. Install dependencies:
@@ -73,7 +73,7 @@ Replace `path/to/your/jarfile.jar` with the actual path to your JAR file.
 ### Project Structure
 
 ```
-jarunner/
+custom_jarunner_plugin/
 ├── src/
 │   ├── extension.ts      # Main extension code
 │   └── test/
@@ -128,7 +128,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Support
 
-If you encounter any issues or have feature requests, please open an issue on the [GitHub repository](https://github.com/yourusername/jarunner/issues).
+If you encounter any issues or have feature requests, please open an issue on the [GitHub repository](https://github.com/engr-muhammad-mansoor/custom_jarunner_plugin/issues).
 
 ---
 
